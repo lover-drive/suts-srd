@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Spectral+SC:wght@200;700&display=swap');
+
+body {
+	font-family: 'Merriweather', serif;
+	font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Spectral SC', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	font-family: 'Spectral SC', sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+em strong,
+strong em {
+	font-family: 'Spectral SC', sans-serif;
+	font-style: normal;
+	font-size: 1.1rem;
+	line-height: 1rem;
+}
