@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Table of Contents
+permalink: /toc/
 ---
 
 1. Heroes
