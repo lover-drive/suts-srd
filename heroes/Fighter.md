@@ -4,10 +4,8 @@ Where words fail, swords come to solve the problem. This is you. You are the Swo
 **When you play a Fighter, you earn XP when you put your life on the line to defend the weak**. They won't survive without you.
 
 ## Starting actions
-|||
-|:--- | :--- |
-|Brawl|◈◈◇◇|
-|Wreck|◈◇◇◇|
+- Brawl: ◈◈◇◇
+- Wreck: ◈◇◇◇
 
 ## Starting builds
 If you want some guidance when you assign your four action dots and special ability, use one of these templates:  

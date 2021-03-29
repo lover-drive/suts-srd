@@ -1,1 +1,10 @@
+title: Swords under the Sun | Playtest materials
+
 theme: minima
+skin: dark
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
