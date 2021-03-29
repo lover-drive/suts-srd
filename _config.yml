@@ -8,3 +8,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+header_pages:
+  - index.md
+  - heroes/index.md
