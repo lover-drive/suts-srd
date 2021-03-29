@@ -9,8 +9,8 @@ This is the game of faith. This is the game of dangers, struggles, darkness, cor
 Players take on roles of the heroes, risking their life at every turn to make sure that their world, or even the world at large lives to see another day.
 
 ## The Cast
-- [Fighter](/heroes/Fighter), the unstoppable war machine
-- [Ranger](/heroes/Ranger), who wanders the wild
-- [Rogue](/heroes/Rogue), the master of cloak and dagger
-- [Sorcerer](/heroes/Sorcerer), wielding power beyond comprehension
-- [Sun-speaker](/heroes/Sun-Speaker), the keeper of faith
+- [Fighter](./heroes/Fighter.md), the unstoppable war machine
+- [Ranger](./heroes/Ranger.md), who wanders the wild
+- [Rogue](./heroes/Rogue.md), the master of cloak and dagger
+- [Sorcerer](./heroes/Sorcerer.md), wielding power beyond comprehension
+- [Sun-speaker](./heroes/Sun.md-Speaker), the keeper of faith

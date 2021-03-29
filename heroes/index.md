@@ -7,11 +7,11 @@ Pretty much everything you need to do is fill your character sheets. Come along,
 # Step 1. Choose a class
 Take a look and choose one that piques your interest:
 
-- [Fighter](/heroes/Fighter), the unstoppable war machine
-- [Ranger](/heroes/Ranger), who wanders the wild
-- [Rogue](/heroes/Rogue), the master of cloak and dagger
-- [Sorcerer](/heroes/Sorcerer), wielding power beyond comprehension
-- [Sun-speaker](/heroes/Sun-Speaker), the keeper of faith
+- [Fighter](Fighter.md), the unstoppable war machine
+- [Ranger](Ranger.md), who wanders the wild
+- [Rogue](Rogue.md), the master of cloak and dagger
+- [Sorcerer](Sorcerer.md), wielding power beyond comprehension
+- [Sun-speaker](Sun.md-Speaker), the keeper of faith
 
 # Step 2. Choose your blood
 Most classes (with the exception of the Sun-Speaker) have several options for ***Blood***. They represent your heritage and ancestry and each gives you a special ability.
