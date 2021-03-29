@@ -10,5 +10,5 @@ relative_links:
   collections: true
 
 header_pages:
-  - index.md
-  - heroes/index.md
+  - toc.md
+  - heroes/
