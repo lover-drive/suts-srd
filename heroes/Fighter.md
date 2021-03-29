@@ -7,6 +7,11 @@ Where words fail, swords come to solve the problem. This is you. You are the Swo
 - Brawl: ◈◈◇◇
 - Wreck: ◈◇◇◇
 
+---
+Brawl: ◈◈◇◇
+Wreck: ◈◇◇◇
+---
+
 ## Starting builds
 If you want some guidance when you assign your four action dots and special ability, use one of these templates:  
 - ***Barbarian***. Wreck +1, Traverse +1, Survive +2. **Berzerk**.  
